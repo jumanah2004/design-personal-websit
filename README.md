@@ -28,7 +28,7 @@ The website is structured into several clean, semantic sections:
 ## 🛠️ Technologies Used
 
 * HTML5 - Markup and page structure.
-* CSS3 - Styling, layout, and responsiveness.
+
 
 ---
 
