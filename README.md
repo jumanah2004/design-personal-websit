@@ -6,7 +6,7 @@ A simple, elegant personal portfolio website built with HTML and CSS to showcase
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Live Demo & imge of website
 
 ✨ [Visit my Live Website here!](https://jumanah.free.je/)
 
